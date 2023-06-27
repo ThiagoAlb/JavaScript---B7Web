@@ -1,14 +1,2 @@
 @charset "UTF-8";
 
-body {
-    background-color: #EEE;
-}
-
-input [type=text] {
-    padding: 10px;
-    font-size: 14px;
-}
-
-#telefone {
-    display: none;
-}
